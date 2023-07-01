@@ -1,5 +1,3 @@
-http://xiaoyaoguawang,github.io/commonweal/index.html
-http://xiaoyaoguawang,github.io/sitemap/index.html
 http://xiaoyaoguawang,github.io/archives/index.html
 http://xiaoyaoguawang,github.io/categories/index.html
 http://xiaoyaoguawang,github.io/tags/index.html
