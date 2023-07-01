@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>张玉树的博客</title>
   
-  
+  <subtitle>早睡早起</subtitle>
   <link href="http://xiaoyaoguawang,github.io/atom.xml" rel="self"/>
   
   <link href="http://xiaoyaoguawang,github.io/"/>
@@ -10,7 +10,7 @@
   <id>http://xiaoyaoguawang,github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>zhangyushu</name>
     
   </author>
   
